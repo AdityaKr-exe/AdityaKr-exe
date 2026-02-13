@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Hey, I’m Aditya — Aspiring Data Analyst📍 Cognizant | SQL • Power BI • Python • Excel  <br>🌱 Learning advanced analytics & ML  <br>👯 Open to collaborations in data analytics & BI projects  <br>💬 Ask me about dashboards, KPI automation, EDA, SQL & Python <br>
+👋 Hey, I’m Aditya — Aspiring Data Analyst<br>📍 Cognizant | SQL • Power BI • Python • Excel  <br>🌱 Learning advanced analytics & ML  <br>👯 Open to collaborations in data analytics & BI projects  <br>💬 Ask me about dashboards, KPI automation, EDA, SQL & Python <br>
 
 
 ## 🌐 Socials:
